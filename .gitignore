@@ -1,0 +1,9 @@
+
+# Project-specific
+rag_system.db
+data/chroma_db/
+data/raw/*
+!data/raw/.gitkeep
+logs/*.log
+__pycache__/
+node_modules/
